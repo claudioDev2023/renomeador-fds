@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#168df2"/><stop offset=".45" stop-color="#0757b5"/><stop offset="1" stop-color="#001f3f"/></linearGradient><linearGradient id="y"><stop stop-color="#ffe200"/><stop offset="1" stop-color="#ffae00"/></linearGradient></defs>
+<rect x="8" y="8" width="496" height="496" rx="78" fill="url(#b)" stroke="#ffd400" stroke-width="10"/>
+<path d="M158 64h175l69 69v187H158z" fill="white" stroke="#d7e2ee" stroke-width="5"/><path d="M333 64v69h69" fill="#e8eef5"/>
+<rect x="121" y="91" width="142" height="65" rx="17" fill="#e21a12"/><text x="192" y="137" text-anchor="middle" font-family="Arial" font-size="48" font-weight="900" fill="white">PDF</text>
+<text x="280" y="245" text-anchor="middle" font-family="Arial" font-size="100" font-weight="900" fill="#001f3f">FDS</text>
+<path d="M112 273c55 78 185 96 286 25l-18-25 78 24-54 62-5-30c-132 76-280 40-329-49z" fill="url(#y)" stroke="white" stroke-width="6"/>
+<text x="256" y="423" text-anchor="middle" font-family="Arial" font-size="46" font-weight="900" fill="white">RENOMEADOR</text>
+<text x="256" y="480" text-anchor="middle" font-family="Arial" font-size="66" font-weight="900" fill="#ffd400">FDS</text></svg>
